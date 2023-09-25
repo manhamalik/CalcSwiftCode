@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "91d48208fb4934bfea92bd477162ae7b"
+build_time: [1695194491, 920416000]
+inputs:
+  "/Users/quuppa/Documents/iOSdev/Calculator/ViewController.swift": [1695169442, 122973701]
+  "/Users/quuppa/Documents/iOSdev/Calculator/AppDelegate.swift": [1695150598, 623775571]
+  "/Users/quuppa/Documents/iOSdev/Calculator/SceneDelegate.swift": [1695150598, 742893726]
